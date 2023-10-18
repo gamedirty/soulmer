@@ -125,7 +125,7 @@ dependencies {
 
     // material design
     implementation("com.google.android.material:material:1.4.0")
-    implementation("androidx.recyclerview:recyclerview:1.2.1")
+    implementation("androidx.recyclerview:recyclerview:1.3.2")
 
     // Preference DataStore
     implementation("androidx.datastore:datastore-preferences:1.0.0")
